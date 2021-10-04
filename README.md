@@ -9,7 +9,7 @@
 - 
 
 
-🎸 Outside my job and the tech world, I love **catching up with my friends(over awesome meals and drinks 😉)**, **playing musical instruments**, **taking walks**, **watching countless series & movies**
+🎸 Outside my job and the tech world, I love **catching up with my friends(over awesome meals and drinks 😉)**, **computer or boardgames**, **playing musical instruments**, **taking walks**, **watching countless series & movies**
 
 📚 My current favorite book is _INSPIRED: How to Create Tech Products Customers Love by  Marty Cagan_([Ref](https://svpg.com/inspired-how-to-create-products-customers-love/))
 
@@ -21,7 +21,7 @@
 - 
 
 
-## 🛠️ Skills
+## 🛠️ Skills & Some of the things I was exposed to
 
 ### Languages
 
@@ -76,8 +76,10 @@
 ### Servers
 ![Apache Airflow](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 
+
 ### Others
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+![Chrome Extension](https://img.shields.io/badge/Chrome%20Extension-5340ff?style=for-the-badge&logo=Google-chrome&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
@@ -90,7 +92,7 @@
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black)
 
-### Gaming 
+### Gaming (I just wanted to tell that I game too) 
 ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
 ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white)
 
@@ -104,14 +106,12 @@
 
 
 
-
 ### Version Control
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 
 ## 🔗 Links
 
-[![portfolio](https://img.shields.io/badge/Portfolio-5340ff?style=for-the-badge&logo=Google-chrome&logoColor=white)](https://www.linkedin.com/in/jerrytohvan/)
 [![resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://www.linkedin.com/in/jerrytohvan/)
 [![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/jerrytohvan/)
 [![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/jerrytohvan)
