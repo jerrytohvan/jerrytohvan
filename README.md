@@ -9,9 +9,9 @@
 - 
 
 
-🎸 Of course, outside my job and the tech world **guitar**, ****, **sketching**, **touch typing** to some whacky ones like **writing with my left hand** (only aiming from mastery only in **guitar** and **dancing**).
+🎸 Outside my job and the tech world, I love **catching up with my friends(over awesome meals and drinks 😉)**, **playing musical instruments**, **taking walks**, **watching countless series & movies**
 
-📚 My favorite book: .
+📚 My current favorite book is _INSPIRED: How to Create Tech Products Customers Love by  Marty Cagan_([Ref](https://svpg.com/inspired-how-to-create-products-customers-love/))
 
 ✈️ Well we all know and can't wait to travel freely again 🥲
 
