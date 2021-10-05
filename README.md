@@ -12,7 +12,7 @@
 - Building digital expertise in Facebook, Instagram, Pinterest and Snapchat technical integrations and API services.
 - Bridging customer pain points and product feedback loop through direct interaction with customers in support.
 
-🎸 Outside my job and the tech world, I love **catching up with my friends(over awesome meals and drinks 😉)**, **computer or boardgames**, **playing musical instruments**, **taking walks**, **watching countless series & movies**. [Watch one of my performances here](https://www.youtube.com/watch?v=T13KpKIyWn0&ab_channel=baybeatsfestival) ☺
+🎸 Outside my job and the tech world, I love catching up with my friends(over an awesome meals and drinks 😉), computer or boardgames, playing musical instruments, taking walks, watching countless series & movies. [Watch one of my performances here](https://www.youtube.com/watch?v=T13KpKIyWn0&ab_channel=baybeatsfestival) ☺
 
 📸 I take photos occasionally: https://vsco.co/jerryobadiah
 
