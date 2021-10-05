@@ -12,14 +12,14 @@
 - Building digital expertise in Facebook, Instagram, Pinterest and Snapchat technical integrations and API services.
 - Bridging customer pain points and product feedback loop through direct interaction with customers in support.
 
-
 🎸 Outside my job and the tech world, I love **catching up with my friends(over awesome meals and drinks 😉)**, **computer or boardgames**, **playing musical instruments**, **taking walks**, **watching countless series & movies**. [Watch one of my performances here](https://www.youtube.com/watch?v=T13KpKIyWn0&ab_channel=baybeatsfestival) ☺
 
-📸 I take photos occasionally: https://vs.co/c38992ac
+📸 I take photos occasionally: https://vsco.co/jerryobadiah
 
 📚 My current favorite book is _INSPIRED: How to Create Tech Products Customers Love by  Marty Cagan_([Ref](https://svpg.com/inspired-how-to-create-products-customers-love/))
 
 🛫 Well we all know and can't wait to travel freely again 🥲
+
 
 
 ## 🏅 Achievements
@@ -97,11 +97,9 @@
 ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black)
 
 
-
 ### 🕹 Gaming (I just wanted to tell that I game too 😙) 
 ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
 ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white)
-
 
 
 ### 🖥️ Workspace Setup
@@ -110,6 +108,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
 
 
 ## 🔗 Links
